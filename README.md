@@ -8,6 +8,6 @@ https://www.mariareina.edu.pe/www/
 
 Diseño en Figma
 
-https://docs.google.com/document/d/1LcIVr-SzjoQ2b8_pdfYwOCbLUVvrpbXIQvXYyeyAtoM/edit
+3.-https://docs.google.com/document/d/1LcIVr-SzjoQ2b8_pdfYwOCbLUVvrpbXIQvXYyeyAtoM/edit
  
 ENLACE DE APOYO , Front-end Developer
