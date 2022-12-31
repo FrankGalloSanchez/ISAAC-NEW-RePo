@@ -7,3 +7,7 @@ https://www.mariareina.edu.pe/www/
 2.-https://www.figma.com/file/7Cl7CyI2NpSHZvd3kMbbc7/IsaacNewton_IEP?node-id=0%3A1&t=WKXTYOkLW2ZZFQtL-0
 
 Diseño en Figma
+
+https://docs.google.com/document/d/1LcIVr-SzjoQ2b8_pdfYwOCbLUVvrpbXIQvXYyeyAtoM/edit
+ 
+ENLACE DE APOYO , Front-end Developer
